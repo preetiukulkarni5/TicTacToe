@@ -1,8 +1,8 @@
-Tic Tac Toe – Java Console Application
+#Tic Tac Toe – Java Console Application
 
 A simple 3×3 Tic Tac Toe game implemented using Core Java. This is a console-based, two-player game where players take turns placing X and O until one player wins or the game ends in a draw.
 
-Play the Game
+#Play the Game
 
 - Two-player gameplay (X vs O)
 - Console-based user interaction
@@ -19,7 +19,7 @@ Play the Game
 4. First player to align 3 marks (row, column, or diagonal) wins
 5. If all slots are filled with no winner, the game ends in a draw
 
-Sample Output:
+#Sample Output:
 
 |---|---|---|
 | X | 2 | 3 |
